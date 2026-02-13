@@ -12,8 +12,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=christopherpaulmorrison&show_icons=true&theme=default&hide_border=true&bg_color=fafaf8&title_color=2c2c2c&text_color=6b6b6b&icon_color=4a6fa5" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherpaulmorrison&theme=default&hide_border=true&background=fafaf8&ring=4a6fa5&fire=4a6fa5&currStreakLabel=2c2c2c&sideLabels=6b6b6b&dates=999999" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=christopherpaulmorrison&show_icons=true&theme=default&hide_border=true&bg_color=fafaf8&title_color=2c2c2c&text_color=6b6b6b&icon_color=4a6fa5" height="180" />
+<img src="https://streak-stats.demolab.com/?user=christopherpaulmorrison&theme=default&hide_border=true&background=fafaf8&ring=4a6fa5&fire=4a6fa5&currStreakLabel=2c2c2c&sideLabels=6b6b6b&dates=999999" height="180" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=christopherpaulmorrison&theme=minimal&hide_border=true&bg_color=fafaf8&color=2c2c2c&line=4a6fa5&point=4a6fa5&area=true&area_color=4a6fa5)](https://github.com/christopherpaulmorrison)
 
 </div>
 
@@ -23,7 +29,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=christopherpaulmorrison&theme=flat&no-frame=true&no-bg=true&column=7&title_color=4a6fa5)
+![Trophies](https://github-trophies.vercel.app/?username=christopherpaulmorrison&theme=flat&no-frame=true&no-bg=true&column=7&title_color=4a6fa5)
 
 </div>
 
