@@ -66,8 +66,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building in Public](https://christopherpaulmorrison.github.io/posts/building-in-public.html)
 - [Lessons from Leading Teams](https://christopherpaulmorrison.github.io/posts/lessons-from-leading-teams.html)
-- [The Art of Simplicity](https://christopherpaulmorrison.github.io/posts/the-art-of-simplicity.html)
-<!-- BLOG-POST-LIST:END -->
+- [The Art of Simplicity](https://christopherpaulmorrison.github.io/posts/the-art-of-simplicity.html)<!-- BLOG-POST-LIST:END -->
 
 Read more at [christopherpaulmorrison.github.io](https://christopherpaulmorrison.github.io/)
 
